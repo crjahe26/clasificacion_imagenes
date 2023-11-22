@@ -1,10 +1,10 @@
 # Descripción del proyecto
 
 ## Integrantes
-Cristian Jaramillo Herrera - CC:1036680346
-Danilo Giraldo Lopez - CC:1007240582
-Juan Felipe Usuga Villegas - CC:1035922312 
-Maria Camila Durango Muñoz - CC:1035234476 
+- Cristian Jaramillo Herrera - CC:1036680346
+- Danilo Giraldo Lopez - CC:1007240582
+- Juan Felipe Usuga Villegas - CC:1035922312 
+- Maria Camila Durango Muñoz - CC:1035234476 
 
 
 ## Reporte tecnico como entrada de blog
