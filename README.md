@@ -1,6 +1,7 @@
 # Descripción del proyecto
 
 ## reporte tecnico como entrada de blog
+https://startling-haupia-0d5619.netlify.app/
 
 
 ## Notebooks
