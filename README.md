@@ -2,9 +2,9 @@
 
 ## Notebooks
 
-Te encontraras con dos notebooks el primero se llama "modeloClasificacionImagenes.ipynb" es donde se desarrollo, entreno y probo el modelo de clasificación de imagenes.
+Te encontraras con dos notebooks el primero se llama **modeloClasificacionImagenes.ipynb** es donde se desarrollo, entreno y probo el modelo de clasificación de imagenes.
 
-El segundo notebook se llama "ProbarModelo.ipynb" allí se realizó una prueba similar a la del otro notebook, pero en este caso solo se hizo con el ".keras" y el "label_encoder.npy" generado en el notebook anterior.
+El segundo notebook se llama **ProbarModelo.ipynb** allí se realizó una prueba similar a la del otro notebook, pero en este caso solo se hizo con el ".keras" y el "label_encoder.npy" generado en el notebook anterior.
 
 ## Data
 Adicionalmente encontraras una carpeta llamada "faces" con el data set de images utilizadas para el entrenamiento del modelo, este data set fue descargado de [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/CMU+Face+Images).
