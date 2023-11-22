@@ -67,6 +67,11 @@ El modelo se compone de varias capas convolucionales seguidas de capas de poolin
 
 - En la iteración inicial, la precisión en el conjunto de prueba es monitoreada y se imprime al final del entrenamiento.
 
+  ![prediccion_conjunto_prueba](https://github.com/crjahe26/clasificacion_imagenes/assets/45887686/aad0349f-fd74-4f44-85cf-857979732b80)
+  
+  Predicción con conjunto de prueba
+
+
 ## 8. Almacenamiento del Modelo:
 
 - El modelo se guarda en un archivo (formato H5) para permitir su reutilización en el futuro.
@@ -103,6 +108,10 @@ El modelo se compone de varias capas convolucionales seguidas de capas de poolin
    - La matriz de confusión muestra que el modelo tiene un rendimiento sólido en ambas clases (gafas y sin gafas).
    - La mayoría de las predicciones se encuentran en la diagonal principal, indicando una clasificación precisa.
 
+  ![matriz_de_confusion](https://github.com/crjahe26/clasificacion_imagenes/assets/45887686/f69229dd-292a-49b7-a695-49c2d8eca43b)
+  
+  Matriz de confusión
+
 3. **Tendencia de Entrenamiento:**
    - La pérdida de entrenamiento disminuyó gradualmente a lo largo de las épocas, indicando un aprendizaje efectivo.
    - La precisión de entrenamiento también mejoró, llegando al 83.23%.
@@ -115,3 +124,8 @@ El modelo se compone de varias capas convolucionales seguidas de capas de poolin
 
 6. **Conclusión General:**
    - El modelo ha alcanzado un nivel aceptable de precisión y generalización en la clasificación de personas con y sin gafas.
+
+     ![prediccion_imagenes_externas](https://github.com/crjahe26/clasificacion_imagenes/assets/45887686/6d5b18ff-a800-48d4-acbb-b4aca437483a)
+     
+     Predicción con Imagenes externes
+
