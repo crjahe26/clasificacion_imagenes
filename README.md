@@ -1,5 +1,8 @@
 # Descripción del proyecto
 
+## reporte tecnico como entrada de blog
+
+
 ## Notebooks
 
 Te encontraras con dos notebooks el primero se llama **modeloClasificacionImagenes.ipynb** es donde se desarrollo, entreno y probo el modelo de clasificación de imagenes.
